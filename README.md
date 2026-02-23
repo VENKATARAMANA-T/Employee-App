@@ -67,52 +67,46 @@ A stunning, production-grade React 19 application built with Vite for managing a
 ### 🔐 Login Page
 Animated, secure login interface with credential validation and modern design
 
-![Login Page](./public/screenshots/01-login.png)
+![Login Page](./public/screenshots/Screenshot%202026-02-23%20201743.png)
 
 ### 👥 Employee Directory - Table View
 Comprehensive employee list with search, filter, sort, and pagination
 
-![Employee List - Table View](./public/screenshots/02-employee-list-table.png)
+![Employee List - Table View](./public/screenshots/Screenshot%202026-02-23%20201802.png)
 
 ### 🎯 Employee Directory - Grid View
-Card-based grid layout for visual employee browsing with quick view details
+Card-based grid layout for visual employee browsing
 
-![Employee List - Grid View](./public/screenshots/03-employee-list-grid.png)
+![Employee List - Grid View](./public/screenshots/Screenshot%202026-02-23%20201811.png)
 
 ### 📱 Employee Details & Camera Capture
 Full employee profile with integrated webcam and photo capture functionality
 
-![Employee Details](./public/screenshots/04-employee-details.png)
-
-### 📊 Analytics Dashboard - KPI Overview
-Key performance indicators showing total employees, departments, salaries, and remote workers
-
-![Analytics KPI Cards](./public/screenshots/05-analytics-kpi.png)
-
-### 📈 Top 10 Earners Bar Chart
+![Employee Details](./public/screenshots/Screenshot%202026-02-23%20201828.png)
+### � Bar Chart Analytics
 Salary visualization showing highest compensated employees
 
-![Top Earners Chart](./public/screenshots/06-top-earners.png)
+![Bar Chart Analytics](./public/screenshots/Screenshot%202026-02-23%20201841.png)
 
-### 📉 Salary Distribution Area Chart
-Distribution of employees across salary bands with trend analysis
+### 📈 Graph Analysis
+Salary trends and performance metrics visualization
 
-![Salary Distribution](./public/screenshots/07-salary-distribution.png)
+![Graph Analysis](./public/screenshots/Screenshot%202026-02-23%20201901.png)
 
-### 🥧 Department Salary Breakdown - Pie Chart
-Visual representation of average salary by department with multi-departmental view
+### 🥧 Pie Chart Analysis
+Department-wise distribution and salary breakdown analysis
 
-![Department Breakdown](./public/screenshots/08-department-pie.png)
+![Pie Chart Analysis](./public/screenshots/Screenshot%202026-02-23%20201911.png)
 
-### 💼 Department Salary Summary Table
-Detailed department-wise compensation analysis with headcount and average salary
+### 📋 Table Analysis
+Detailed department-wise compensation and employee statistics
 
-![Department Summary](./public/screenshots/09-department-summary.png)
+![Table Analysis](./public/screenshots/Screenshot%202026-02-23%20201920.png)
 
-### 🗺️ Geographic Distribution Map
-Interactive Leaflet map showing employee locations worldwide with city-wise breakdown
+### 🗺️ Interactive Map View
+Geolocation visualization showing employees by city with interactive markers
 
-![Map View](./public/screenshots/10-map-view.png)
+![Map View](./public/screenshots/Screenshot%202026-02-23%20201933.png)
 
 ## �🛠️ Tech Stack
 - ⚛️ **React 19.x** + **Vite 6**
